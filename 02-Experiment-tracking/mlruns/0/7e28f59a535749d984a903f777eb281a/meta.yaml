@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ajana/Music/mlops-zoomcamp/02-Experiment-tracking/mlruns/0/7e28f59a535749d984a903f777eb281a/artifacts
+end_time: 1747059934999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e28f59a535749d984a903f777eb281a
+run_name: treasured-stag-350
+run_uuid: 7e28f59a535749d984a903f777eb281a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747059597848
+status: 3
+tags: []
+user_id: ajana
